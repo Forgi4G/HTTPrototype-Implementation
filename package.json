@@ -1,0 +1,10 @@
+{
+  "name": "httprototype-implementation",
+  "description": "A condensed HTTP/HTTPS client for making requests... A bit differently.",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/Forgi4G/HTTPrototype-Implementation/#readme"
+}
